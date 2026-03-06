@@ -12,3 +12,4 @@ app.get('/health', (req, res) => res.json({ status: 'ok', version: '2.0' }))
 // preview retrigger v4
 // preview retrigger v5 - fixed templates
 // preview retrigger v6 - nsManifest fix
+// preview retrigger v7 - exact format fix
